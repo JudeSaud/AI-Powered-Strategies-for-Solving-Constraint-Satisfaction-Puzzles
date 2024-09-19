@@ -2,4 +2,5 @@
 
 This project presents an AI-based solution to the Tenner Grid puzzle, modeled as a Constraint Satisfaction Problem (CSP). Three algorithms—Simple Backtracking, Backtracking with MRV heuristic, Forward Checking—were implemented to solve randomly generated Tenner Grid puzzles of various sizes.
 
-(Project for university Introduction to AI course)
+CSC361's Project
+1/15/23
